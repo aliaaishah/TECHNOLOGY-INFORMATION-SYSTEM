@@ -17,7 +17,7 @@
     <a href="https://github.com/aliaaishah/INDUSTRY-TALK-AIR-ASIA-">
       <img src="https://img.shields.io/badge/Assignment_1-FFDDC1?style=for-the-badge&logo=task&logoColor=white" alt="Assignment 1">
     </a>
-    <a href="https://github.com/nrathrhabs/Assignment-2/blob/main/README.md">
+    <a href="https://github.com/aliaaishah/INDUSTRY-VISIT-UTM-DIGITAL">
       <img src="https://img.shields.io/badge/Assignment_2-B5EAD7?style=for-the-badge&logo=open-folder&logoColor=white" alt="Assignment 2">
     </a>
     <a href="https://github.com/nrathrhabs/Assignment-3/blob/main/README.md">
