@@ -1,12 +1,35 @@
-# TECHNOLOGY INFORMATION SYSTEM
+#  Technology and Information System 
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center">
 
-[![PC Maintenance](https://img.shields.io/badge/PC_Maintenance-1E90FF?style=for-the-badge&logo=desktop-computer&logoColor=white)](https://github.com/nrathrhabs/PC-Maintenance/blob/main/README.md)  
-[![Design Thinking](https://img.shields.io/badge/Design_Thinking-8A2BE2?style=for-the-badge&logo=idea&logoColor=white)](https://github.com/nrathrhabs/Design-Thinking/blob/main/README.md)  
-[![Assignment 1](https://img.shields.io/badge/Assignment_1-FFA500?style=for-the-badge&logo=task&logoColor=white)](https://github.com/nrathrhabs/Assignment-1/blob/main/README.md)  
-[![Assignment 2](https://img.shields.io/badge/Assignment_2-3CB371?style=for-the-badge&logo=open-folder&logoColor=white)](https://github.com/nrathrhabs/Assignment-2/blob/main/README.md)  
-[![Assignment 3](https://img.shields.io/badge/Assignment_3-CD5C5C?style=for-the-badge&logo=file-text&logoColor=white)](https://github.com/nrathrhabs/Assignment-3/blob/main/README.md)  
-[![Assignment 4](https://img.shields.io/badge/Assignment_4-4682B4?style=for-the-badge&logo=documents&logoColor=white)](https://github.com/nrathrhabs/Assignment-4/blob/main/README.md)
+  <!-- Top Part of Heart -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/nrathrhabs/PC-Maintenance/blob/main/README.md">
+      <img src="https://img.shields.io/badge/PC_Maintenance-FFB6C1?style=for-the-badge&logo=desktop-computer&logoColor=white" alt="PC Maintenance">
+    </a>
+    <a href="https://github.com/nrathrhabs/Design-Thinking/blob/main/README.md">
+      <img src="https://img.shields.io/badge/Design_Thinking-FFD1DC?style=for-the-badge&logo=idea&logoColor=white" alt="Design Thinking">
+    </a>
+  </div>
+
+  <!-- Middle Part of Heart -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 5px;">
+    <a href="https://github.com/nrathrhabs/Assignment-1/blob/main/README.md">
+      <img src="https://img.shields.io/badge/Assignment_1-FFDDC1?style=for-the-badge&logo=task&logoColor=white" alt="Assignment 1">
+    </a>
+    <a href="https://github.com/nrathrhabs/Assignment-2/blob/main/README.md">
+      <img src="https://img.shields.io/badge/Assignment_2-B5EAD7?style=for-the-badge&logo=open-folder&logoColor=white" alt="Assignment 2">
+    </a>
+    <a href="https://github.com/nrathrhabs/Assignment-3/blob/main/README.md">
+      <img src="https://img.shields.io/badge/Assignment_3-C7CEEA?style=for-the-badge&logo=file-text&logoColor=white" alt="Assignment 3">
+    </a>
+  </div>
+
+  <!-- Bottom Part of Heart -->
+  <div style="display: flex; justify-content: center; margin-top: 5px;">
+    <a href="https://github.com/nrathrhabs/Assignment-4/blob/main/README.md">
+      <img src="https://img.shields.io/badge/Assignment_4-E0BBE4?style=for-the-badge&logo=documents&logoColor=white" alt="Assignment 4">
+    </a>
+  </div>
 
 </div>
