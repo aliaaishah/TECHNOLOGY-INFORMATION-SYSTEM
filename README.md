@@ -14,7 +14,7 @@
 
   <!-- Middle Part of Heart -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 5px;">
-    <a href="https://github.com/nrathrhabs/Assignment-1/blob/main/README.md">
+    <a href="https://github.com/aliaaishah/INDUSTRY-TALK-AIR-ASIA-">
       <img src="https://img.shields.io/badge/Assignment_1-FFDDC1?style=for-the-badge&logo=task&logoColor=white" alt="Assignment 1">
     </a>
     <a href="https://github.com/nrathrhabs/Assignment-2/blob/main/README.md">
