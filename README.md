@@ -7,7 +7,7 @@
     <a href="https://github.com/aliaaishah/PC-Assembly-Report">
       <img src="https://img.shields.io/badge/PC_Maintenance-FFB6C1?style=for-the-badge&logo=desktop-computer&logoColor=white" alt="PC Maintenance">
     </a>
-    <a href="https://github.com/nrathrhabs/Design-Thinking/blob/main/README.md">
+    <a href="https://github.com/aliaaishah/DESIGN-THINKING-PROJECT">
       <img src="https://img.shields.io/badge/Design_Thinking-FFD1DC?style=for-the-badge&logo=idea&logoColor=white" alt="Design Thinking">
     </a>
   </div>
