@@ -4,7 +4,7 @@
 
   <!-- Top Part of Heart -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/nrathrhabs/PC-Maintenance/blob/main/README.md">
+    <a href="https://github.com/aliaaishah/PC-Assembly-Report">
       <img src="https://img.shields.io/badge/PC_Maintenance-FFB6C1?style=for-the-badge&logo=desktop-computer&logoColor=white" alt="PC Maintenance">
     </a>
     <a href="https://github.com/nrathrhabs/Design-Thinking/blob/main/README.md">
