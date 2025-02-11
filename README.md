@@ -27,7 +27,7 @@
 
   <!-- Bottom Part of Heart -->
   <div style="display: flex; justify-content: center; margin-top: 5px;">
-    <a href="https://github.com/nrathrhabs/Assignment-4/blob/main/README.md">
+    <a href="https://github.com/aliaaishah/INDUSTRY-TALK-TELEKOM-MALAYSIA-TM-">
       <img src="https://img.shields.io/badge/Assignment_4-E0BBE4?style=for-the-badge&logo=documents&logoColor=white" alt="Assignment 4">
     </a>
   </div>
